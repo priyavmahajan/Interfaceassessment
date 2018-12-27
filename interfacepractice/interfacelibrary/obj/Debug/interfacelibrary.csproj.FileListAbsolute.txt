@@ -1,0 +1,12 @@
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\bin\Debug\interfacelibrary.dll
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\bin\Debug\interfacelibrary.pdb
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.csprojAssemblyReference.cache
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.csproj.CoreCompileInputs.cache
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.dll
+C:\Users\priyankaj\source\repos\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.pdb
+E:\priyanka\interfacepractice\interfacelibrary\bin\Debug\interfacelibrary.dll
+E:\priyanka\interfacepractice\interfacelibrary\bin\Debug\interfacelibrary.pdb
+E:\priyanka\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.csprojAssemblyReference.cache
+E:\priyanka\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.csproj.CoreCompileInputs.cache
+E:\priyanka\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.dll
+E:\priyanka\interfacepractice\interfacelibrary\obj\Debug\interfacelibrary.pdb
